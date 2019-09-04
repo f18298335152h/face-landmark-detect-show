@@ -1,6 +1,9 @@
 # face-landmark-detect-show
 端上人脸关键点和检测展示
 
+### PS: 我真的懒得写readme，笔尖流过的痕迹更利于记忆，我自己看的，抱歉
+
+
 ### ncnn 测速：
 
 ![Alt text](低配-cpu.png)
